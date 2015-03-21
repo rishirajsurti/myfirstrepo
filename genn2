@@ -1,0 +1,10 @@
+for i in {1..200}
+do
+firefox "http://www.amazon.in/gp/product/B00JG8FHJQ/ref=as_li_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=B00JG8FHJQ&linkCode=as2&tag=httpiitmboobl-21&linkId=P63WXB6NXPVFNLRH"
+firefox "http://www.amazon.in/gp/product/B00KDRQ2RU/ref=as_li_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=B00KDRQ2RU&linkCode=as2&tag=httpiitmboobl-21&linkId=Q2QL2EMRPVUYYE5A"
+firefox "http://www.amazon.in/gp/product/B00JG8FM2I/ref=as_li_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=B00JG8FM2I&linkCode=as2&tag=httpiitmboobl-21&linkId=ADWTGACUB6UPUSDG"
+firefox "http://www.amazon.in/Apple-iPhone-5s-Gold-16GB/dp/B00FXLCD38?tag=httpiitmboobl-21&linkCode=w13&linkID=PMOKRGCPFE65UAGM&ref_=assoc_res_sw_result_1"
+firefox "http://www.amazon.in/gp/product/935107224X/ref=as_li_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=935107224X&linkCode=as2&tag=httpiitmboobl-21&linkId=LCKDXRDFN3BXBUQM"
+firefox "http://www.amazon.in/gp/offer-listing/0521171571/ref=as_li_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=0521171571&linkCode=am2&tag=httpiitmboobl-21&linkId=6CJM2ATI5LLBO4JW"
+done
+
